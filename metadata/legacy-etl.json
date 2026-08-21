@@ -1,0 +1,12 @@
+{
+  "id": "legacy-etl",
+  "name": "LegacyETL",
+  "category": "data-integration",
+  "version": "1.2.8",
+  "status": "deprecated",
+  "license": "GPL-3.0",
+  "owner_team": "data-eng",
+  "last_review": "2025-11-20",
+  "availability": "limited",
+  "size_kb": 92100
+}
