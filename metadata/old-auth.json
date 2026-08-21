@@ -1,0 +1,12 @@
+{
+  "id": "old-auth",
+  "name": "OldAuth",
+  "category": "security",
+  "version": "1.4.0",
+  "status": "eol",
+  "license": "BSD-3-Clause",
+  "owner_team": "security",
+  "last_review": "2024-12-01",
+  "availability": "limited",
+  "size_kb": 6800
+}
