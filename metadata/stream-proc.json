@@ -1,0 +1,12 @@
+{
+  "id": "stream-proc",
+  "name": "StreamProcessor",
+  "category": "data-processing",
+  "version": "2.0.0",
+  "status": "active",
+  "license": "Apache-2.0",
+  "owner_team": "data-platform",
+  "last_review": "2026-04-10",
+  "availability": "limited",
+  "size_kb": 33500
+}
