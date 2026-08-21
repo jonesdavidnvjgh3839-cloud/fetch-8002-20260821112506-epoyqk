@@ -1,0 +1,12 @@
+{
+  "id": "legacy-crm",
+  "name": "LegacyCRM",
+  "category": "crm",
+  "version": "2.3.5",
+  "status": "deprecated",
+  "license": "Proprietary",
+  "owner_team": "sales-ops",
+  "last_review": "2025-06-25",
+  "availability": "unavailable",
+  "size_kb": 142000
+}
