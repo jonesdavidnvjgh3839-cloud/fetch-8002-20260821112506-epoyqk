@@ -1,0 +1,12 @@
+{
+  "id": "beta-queue",
+  "name": "BetaQueue",
+  "category": "messaging",
+  "version": "0.9.4",
+  "status": "beta",
+  "license": "Apache-2.0",
+  "owner_team": "platform-eng",
+  "last_review": "2026-07-02",
+  "availability": "limited",
+  "size_kb": 15300
+}
