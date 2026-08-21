@@ -1,0 +1,12 @@
+{
+  "id": "data-viz",
+  "name": "DataViz",
+  "category": "analytics",
+  "version": "3.0.1",
+  "status": "active",
+  "license": "MIT",
+  "owner_team": "bi-team",
+  "last_review": "2026-05-30",
+  "availability": "available",
+  "size_kb": 27400
+}
