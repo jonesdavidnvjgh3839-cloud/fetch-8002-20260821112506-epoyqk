@@ -1,0 +1,11 @@
+{
+  "id": "config-sync",
+  "name": "ConfigSync",
+  "category": "devops",
+  "version": "1.8.2",
+  "status": "active",
+  "license": "MIT",
+  "owner_team": "devops",
+  "last_review": "2026-07-18",
+  "availability": "available"
+}
