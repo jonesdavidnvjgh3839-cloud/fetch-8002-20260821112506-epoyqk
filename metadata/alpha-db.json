@@ -1,0 +1,12 @@
+{
+  "id": "alpha-db",
+  "name": "AlphaDB",
+  "category": "database",
+  "version": "2.1.0",
+  "status": "active",
+  "license": "MIT",
+  "owner_team": "data-platform",
+  "last_review": "2026-06-15",
+  "availability": "available",
+  "size_kb": 48200
+}
